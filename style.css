@@ -1,12 +1,10 @@
-
-  
-  body {
+    body {
     font-family: monospace;
     font-size: 16px;
     line-height: 1.45;
     height: 885vh;
     padding: 16px;
-    background-color: black;";
+    background-color: #000000;
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -17,13 +15,12 @@
     width: 400px;
     height: 400px;
     margin: 36px auto;
-    background-repeat: no-repeat;
     background-origin: padding-box;
     background-size: auto;
     padding: 16px;
     border: 4px solid #000000;
   }
   
-  .m-box {
-    min-height: 100px;
-  }*
+  .m-box { min-height: 100px;
+  }
+  
