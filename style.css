@@ -1,10 +1,10 @@
     body {
     font-family: monospace;
     font-size: 16px;
-    line-height: 1.45;
+    line-height: 1;
     height: 885vh;
     padding: 16px;
-    background-color: #000000;
+    background-color: rgb(0, 0, 0);
     background-size: cover;
     background-repeat: no-repeat;
   }
